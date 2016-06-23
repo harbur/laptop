@@ -94,6 +94,7 @@ tap "homebrew/services"
 # Unix
 brew "ctags"
 brew "git"
+brew "git-extras"
 brew "openssl"
 brew "rcm"
 brew "the_silver_searcher"
