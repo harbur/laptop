@@ -2,9 +2,8 @@
 
 Laptop is a guideline to help you setup an OS X laptop for development.
 
-## What will be installed
-
-The following are considered the essentials for development:
+What it sets up
+---------------
 
 * [Git](https://git-scm.com/) for version control
 * [Zsh](https://ohmyz.sh/) a beautiful terminal
@@ -14,9 +13,7 @@ The following are considered the essentials for development:
 * [AWS CLI](https://aws.amazon.com/cli/) to manage AWS
 * [Google Cloud SDK](https://cloud.google.com/sdk/install) to manage Google Cloud
 
-It can be run multiple times on the same machine safely.
-It installs, upgrades, or skips packages
-based on what is already installed on the machine.
+It should take less than 15 minutes to install (depends on your machine).
 
 Requirements
 ------------
@@ -41,10 +38,6 @@ less mac
 sh mac 2>&1 | tee ~/laptop.log
 ```
 
-Optionally, [install thoughtbot/dotfiles][dotfiles].
-
-[dotfiles]: https://github.com/thoughtbot/dotfiles#install
-
 Debugging
 ---------
 
@@ -53,82 +46,6 @@ Read through it to see if you can debug the issue yourself.
 If not, copy the lines where the script failed into a
 [new GitHub Issue](https://github.com/thoughtbot/laptop/issues/new) for us.
 Or, attach the whole log file as an attachment.
-
-What it sets up
----------------
-
-Mac OS X tools:
-
-* [Homebrew] for managing operating system libraries.
-
-[Homebrew]: http://brew.sh/
-
-Unix tools:
-
-* [Exuberant Ctags] for indexing files for vim tab completion
-* [Git] for version control
-* [OpenSSL] for Transport Layer Security (TLS)
-* [RCM] for managing company and personal dotfiles
-* [The Silver Searcher] for finding things in files
-* [Tmux] for saving project state and switching between projects
-* [Zsh] as your shell
-
-[Exuberant Ctags]: http://ctags.sourceforge.net/
-[Git]: https://git-scm.com/
-[OpenSSL]: https://www.openssl.org/
-[RCM]: https://github.com/thoughtbot/rcm
-[The Silver Searcher]: https://github.com/ggreer/the_silver_searcher
-[Tmux]: http://tmux.github.io/
-[Zsh]: http://www.zsh.org/
-
-Heroku tools:
-
-* [Heroku Toolbelt] and [Parity] for interacting with the Heroku API
-
-[Heroku Toolbelt]: https://toolbelt.heroku.com/
-[Parity]: https://github.com/thoughtbot/parity
-
-GitHub tools:
-
-* [Hub] for interacting with the GitHub API
-
-[Hub]: http://hub.github.com/
-
-Image tools:
-
-* [ImageMagick] for cropping and resizing images
-
-Testing tools:
-
-* [Qt] for headless JavaScript testing via Capybara Webkit
-
-[Qt]: http://qt-project.org/
-
-Programming languages and configuration:
-
-* [Bundler] for managing Ruby libraries
-* [Node.js] and [NPM], for running apps and installing JavaScript packages
-* [Rbenv] for managing versions of Ruby
-* [Ruby Build] for installing Rubies
-* [Ruby] stable for writing general-purpose code
-
-[Bundler]: http://bundler.io/
-[ImageMagick]: http://www.imagemagick.org/
-[Node.js]: http://nodejs.org/
-[NPM]: https://www.npmjs.org/
-[Rbenv]: https://github.com/sstephenson/rbenv
-[Ruby Build]: https://github.com/sstephenson/ruby-build
-[Ruby]: https://www.ruby-lang.org/en/
-
-Databases:
-
-* [Postgres] for storing relational data
-* [Redis] for storing key-value data
-
-[Postgres]: http://www.postgresql.org/
-[Redis]: http://redis.io/
-
-It should take less than 15 minutes to install (depends on your machine).
 
 Customize in `~/.laptop.local`
 ------------------------------
