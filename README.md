@@ -1,7 +1,18 @@
-Laptop
-======
+# Laptop
 
-Laptop is a script to set up an OS X laptop for web development.
+Laptop is a guideline to help you setup an OS X laptop for development.
+
+## What will be installed
+
+The following are considered the essentials for development:
+
+* [Git](https://git-scm.com/) for version control
+* [Zsh](https://ohmyz.sh/) a beautiful terminal
+* [VirtualBox](https://www.virtualbox.org/wiki/Downloads) to run VMs
+* [Docker](http://docker.com/) to run containers
+* [Minikube](https://kubernetes.io/docs/setup/minikube/) to run Kubernetes
+* [AWS CLI](https://aws.amazon.com/cli/) to manage AWS
+* [Google Cloud SDK](https://cloud.google.com/sdk/install) to manage Google Cloud
 
 It can be run multiple times on the same machine safely.
 It installs, upgrades, or skips packages
