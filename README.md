@@ -12,6 +12,7 @@ What it sets up
 * [Minikube] to run Kubernetes
 * [AWS CLI] to manage AWS
 * [Google Cloud SDK] to manage Google Cloud
+* [Kubernetic] to manage Kubernetes
 
 It should take less than 15 minutes to install (depends on your machine).
 
@@ -22,6 +23,7 @@ It should take less than 15 minutes to install (depends on your machine).
 [Minikube]: https://kubernetes.io/docs/setup/minikube/
 [AWS CLI]: https://aws.amazon.com/cli/
 [Google Cloud SDK]: https://cloud.google.com/sdk/install
+[Kubernetic]: https://www.kubernetic.com
 
 Requirements
 ------------
