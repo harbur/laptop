@@ -6,16 +6,22 @@ What it sets up
 ---------------
 
 * [Git] for version control
-* [Zsh](https://ohmyz.sh/) a beautiful terminal
-* [VirtualBox](https://www.virtualbox.org/wiki/Downloads) to run VMs
-* [Docker](http://docker.com/) to run containers
-* [Minikube](https://kubernetes.io/docs/setup/minikube/) to run Kubernetes
-* [AWS CLI](https://aws.amazon.com/cli/) to manage AWS
-* [Google Cloud SDK](https://cloud.google.com/sdk/install) to manage Google Cloud
-
-[Git]: https://git-scm.com/
+* [Zsh] a beautiful terminal
+* [VirtualBox] to run VMs
+* [Docker] to run containers
+* [Minikube] to run Kubernetes
+* [AWS CLI] to manage AWS
+* [Google Cloud SDK] to manage Google Cloud
 
 It should take less than 15 minutes to install (depends on your machine).
+
+[Git]: https://git-scm.com/
+[Zsh]: https://ohmyz.sh/
+[VirtualBox]: https://www.virtualbox.org/wiki/Downloads
+[Docker]: http://docker.com/
+[Minikube]: https://kubernetes.io/docs/setup/minikube/
+[AWS CLI]: https://aws.amazon.com/cli/
+[Google Cloud SDK]: https://cloud.google.com/sdk/install
 
 Requirements
 ------------
