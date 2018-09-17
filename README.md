@@ -5,13 +5,15 @@ Laptop is a guideline to help you setup an OS X laptop for development.
 What it sets up
 ---------------
 
-* [Git](https://git-scm.com/) for version control
+* [Git] for version control
 * [Zsh](https://ohmyz.sh/) a beautiful terminal
 * [VirtualBox](https://www.virtualbox.org/wiki/Downloads) to run VMs
 * [Docker](http://docker.com/) to run containers
 * [Minikube](https://kubernetes.io/docs/setup/minikube/) to run Kubernetes
 * [AWS CLI](https://aws.amazon.com/cli/) to manage AWS
 * [Google Cloud SDK](https://cloud.google.com/sdk/install) to manage Google Cloud
+
+[Git]: (https://git-scm.com/)
 
 It should take less than 15 minutes to install (depends on your machine).
 
