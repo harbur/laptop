@@ -13,7 +13,7 @@ What it sets up
 * [AWS CLI](https://aws.amazon.com/cli/) to manage AWS
 * [Google Cloud SDK](https://cloud.google.com/sdk/install) to manage Google Cloud
 
-[Git]: (https://git-scm.com/)
+[Git]: https://git-scm.com/
 
 It should take less than 15 minutes to install (depends on your machine).
 
