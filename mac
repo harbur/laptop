@@ -110,6 +110,10 @@ brew "awscli"
 brew "s3cmd"
 cask "google-cloud-sdk"
 
+# Kubernetes Tools
+brew "kops"
+brew "kubernetes-helm"
+
 # GPG
 cask "gpgtools"
 EOF

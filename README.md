@@ -13,6 +13,8 @@ What it sets up
 * [AWS CLI] to manage AWS
 * [Google Cloud SDK] to manage Google Cloud
 * [Kubernetic] to manage Kubernetes
+* [Kops] to manage Kubernetes Production Clusters
+* [Helm] to manage Kubernetes Charts
 
 It should take less than 15 minutes to install (depends on your machine).
 
@@ -24,6 +26,8 @@ It should take less than 15 minutes to install (depends on your machine).
 [AWS CLI]: https://aws.amazon.com/cli/
 [Google Cloud SDK]: https://cloud.google.com/sdk/install
 [Kubernetic]: https://www.kubernetic.com
+[Kops]: https://github.com/kubernetes/kops
+[Helm]: https://github.com/helm/helm
 
 Requirements
 ------------
