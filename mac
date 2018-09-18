@@ -115,7 +115,7 @@ brew "kops"
 brew "kubernetes-helm"
 
 # GPG
-cask "gpgtools"
+cask "gpg-suite"
 EOF
 
 if [ -f "$HOME/.laptop.local" ]; then
