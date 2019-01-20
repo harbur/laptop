@@ -131,6 +131,7 @@ cask "google-cloud-sdk"
 cask "minikube"
 brew "kops"
 brew "kubernetes-helm"
+brew "kubectx"
 cask "docker"
 cask "kubernetic"
 
