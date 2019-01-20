@@ -16,6 +16,7 @@ What it sets up
 * [Google Cloud SDK] to manage Google Cloud
 * [Kubernetic] to manage Kubernetes
 * [Kubectx] to switch faster between clusters and namespaces
+* [Kube-ps1] to add Kubernetes prompt info on Shell
 * [Kops] to manage Kubernetes Production Clusters
 * [Helm] to manage Kubernetes Charts
 
@@ -32,6 +33,7 @@ It should take less than 15 minutes to install (depends on your machine).
 [Google Cloud SDK]: https://cloud.google.com/sdk/install
 [Kubernetic]: https://www.kubernetic.com
 [Kubectx]: https://github.com/ahmetb/kubectx
+[Kube-ps1]: https://github.com/jonmosco/kube-ps1
 [Kops]: https://github.com/kubernetes/kops
 [Helm]: https://github.com/helm/helm
 
