@@ -38,12 +38,14 @@ Requirements
 
 We support:
 
-* OS X Mavericks (10.9)
-* OS X Yosemite (10.10)
-* OS X El Capitan (10.11)
+* macOS Mavericks (10.9)
+* macOS Yosemite (10.10)
+* macOS El Capitan (10.11)
+* macOS Sierra (10.12)
+* macOS High Sierra (10.13)
+* macOS Mojave (10.14)
 
-Older versions may work but aren't regularly tested. Bug reports for older
-versions are welcome.
+Older versions may work but aren't regularly tested. Bug reports for older versions are welcome.
 
 Install
 -------
