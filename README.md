@@ -134,35 +134,9 @@ brew install shellcheck
 [ShellCheck]: http://www.shellcheck.net/about.html
 [Syntastic]: https://github.com/scrooloose/syntastic
 
-Thank you, [contributors]!
+Inspired by
+-----------
 
-[contributors]: https://github.com/thoughtbot/laptop/graphs/contributors
+This project is inspired by [thoughtbot/laptop]
 
-By participating in this project,
-you agree to abide by the thoughtbot [code of conduct].
-
-[code of conduct]: https://thoughtbot.com/open-source-code-of-conduct
-
-License
--------
-
-Laptop is © 2011-2016 thoughtbot, inc.
-It is free software,
-and may be redistributed under the terms specified in the [LICENSE] file.
-
-[LICENSE]: LICENSE
-
-About thoughtbot
-----------------
-
-![thoughtbot](https://thoughtbot.com/logo.png)
-
-Laptop is maintained and funded by thoughtbot, inc.
-The names and logos for thoughtbot are trademarks of thoughtbot, inc.
-
-We are passionate about open source software.
-See [our other projects][community].
-We are [available for hire][hire].
-
-[community]: https://thoughtbot.com/community?utm_source=github
-[hire]: https://thoughtbot.com?utm_source=github
+[thoughtbot/laptop/]: https://github.com/thoughtbot/laptop
