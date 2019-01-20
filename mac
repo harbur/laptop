@@ -128,6 +128,7 @@ brew "s3cmd"
 cask "google-cloud-sdk"
 
 # Kubernetes Tools
+cask "minikube"
 brew "kops"
 brew "kubernetes-helm"
 
