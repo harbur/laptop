@@ -5,7 +5,8 @@ Laptop is a guideline to help you setup an OS X laptop for development.
 What it sets up
 ---------------
 
-* [Homebrew] for package management with [Homebrew Services] addon to manage services.
+* [Homebrew] for package management
+* [Homebrew Services] addon to manage services.
 * [Git] for version control
 * [Zsh] a beautiful terminal
 * [VirtualBox] to run VMs
