@@ -139,4 +139,4 @@ Inspired by
 
 This project is inspired by [thoughtbot/laptop]
 
-[thoughtbot/laptop/]: https://github.com/thoughtbot/laptop
+[thoughtbot/laptop]: https://github.com/thoughtbot/laptop
