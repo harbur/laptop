@@ -5,6 +5,7 @@ Laptop is a guideline to help you setup an OS X laptop for development.
 What it sets up
 ---------------
 
+* [Homebrew] for package management with [Homebrew Services] addon to manage services.
 * [Git] for version control
 * [Zsh] a beautiful terminal
 * [VirtualBox] to run VMs
@@ -18,6 +19,8 @@ What it sets up
 
 It should take less than 15 minutes to install (depends on your machine).
 
+[Homebrew]: https://brew.sh/
+[Homebrew Services]: https://github.com/Homebrew/homebrew-services
 [Git]: https://git-scm.com/
 [Zsh]: https://ohmyz.sh/
 [VirtualBox]: https://www.virtualbox.org/wiki/Downloads
