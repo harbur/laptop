@@ -6,7 +6,7 @@ What it sets up
 ---------------
 
 * [Homebrew] for package management
-* [Homebrew Services] addon to manage services.
+* [Homebrew Services] addon to manage services
 * [Git] for version control
 * [Zsh] a beautiful terminal
 * [VirtualBox] to run VMs
