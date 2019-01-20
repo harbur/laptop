@@ -116,6 +116,9 @@ brew "the_silver_searcher"
 brew "vim"
 brew "zsh"
 
+# Editor
+cask "visual-studio-code"
+
 # Virtualization
 cask "virtualbox"
 
