@@ -131,6 +131,8 @@ cask "google-cloud-sdk"
 cask "minikube"
 brew "kops"
 brew "kubernetes-helm"
+cask "docker"
+cask "kubernetic"
 
 # GPG
 cask "gpg-suite"
