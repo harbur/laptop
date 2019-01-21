@@ -144,3 +144,9 @@ Inspired by
 This project is inspired by [thoughtbot/laptop]!
 
 [thoughtbot/laptop]: https://github.com/thoughtbot/laptop
+
+Troubleshooting
+---------------
+
+
+If there is an error during Virtualbox installation, check [#39369](https://github.com/Homebrew/homebrew-cask/issues/39369) issue
