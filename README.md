@@ -149,6 +149,6 @@ Troubleshooting
 ---------------
 
 
-If there is an error during Virtualbox installation, check this [blog post]
+If there is an error during Virtualbox installation, check this [blog post].
 
 [blog post]: https://medium.com/@DMeechan/fixing-the-installation-failed-virtualbox-error-on-mac-high-sierra-7c421362b5b5
