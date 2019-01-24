@@ -133,6 +133,8 @@ brew "kops"
 brew "kubernetes-helm"
 brew "kubectx"
 brew "kube-ps1"
+tap "johanhaleby/kubetail"
+brew "kubetail"
 cask "docker"
 cask "kubernetic"
 
