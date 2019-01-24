@@ -17,6 +17,7 @@ What it sets up
 * [Kubernetic] to manage Kubernetes
 * [Kubectx] to switch faster between clusters and namespaces
 * [Kube-ps1] to add Kubernetes prompt info on Shell
+* [Kubetail] to tail Kubernetes logs
 * [Kops] to manage Kubernetes Production Clusters
 * [Helm] to manage Kubernetes Charts
 * [Z] to track into your most used directories (**Installation manual**)
@@ -35,6 +36,7 @@ It should take less than 15 minutes to install (depends on your machine).
 [Kubernetic]: https://www.kubernetic.com
 [Kubectx]: https://github.com/ahmetb/kubectx
 [Kube-ps1]: https://github.com/jonmosco/kube-ps1
+[Kubetail]: https://github.com/johanhaleby/kubetail
 [Kops]: https://github.com/kubernetes/kops
 [Helm]: https://github.com/helm/helm
 [Z]: https://github.com/rupa/z
