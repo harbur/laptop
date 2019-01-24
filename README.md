@@ -19,6 +19,7 @@ What it sets up
 * [Kube-ps1] to add Kubernetes prompt info on Shell
 * [Kops] to manage Kubernetes Production Clusters
 * [Helm] to manage Kubernetes Charts
+* [Z] to track into your most used directories (**Installation manual**)
 
 It should take less than 15 minutes to install (depends on your machine).
 
@@ -36,6 +37,8 @@ It should take less than 15 minutes to install (depends on your machine).
 [Kube-ps1]: https://github.com/jonmosco/kube-ps1
 [Kops]: https://github.com/kubernetes/kops
 [Helm]: https://github.com/helm/helm
+[Z]: https://github.com/rupa/z
+
 
 Requirements
 ------------
