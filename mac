@@ -115,6 +115,7 @@ brew "openssl"
 brew "the_silver_searcher"
 brew "vim"
 brew "zsh"
+brew "httpie"
 
 # Editor
 cask "visual-studio-code"
