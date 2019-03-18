@@ -21,6 +21,7 @@ What it sets up
 * [Kops] to manage Kubernetes Production Clusters
 * [Helm] to manage Kubernetes Charts
 * [Z] to track into your most used directories (**Installation manual**)
+* [HTTPie] a command line HTTP client with an intuitive UI
 
 It should take less than 15 minutes to install (depends on your machine).
 
@@ -40,7 +41,7 @@ It should take less than 15 minutes to install (depends on your machine).
 [Kops]: https://github.com/kubernetes/kops
 [Helm]: https://github.com/helm/helm
 [Z]: https://github.com/rupa/z
-
+[httpie]: https://httpie.org/
 
 Requirements
 ------------
