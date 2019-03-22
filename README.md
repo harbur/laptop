@@ -8,6 +8,7 @@ What it sets up
 * [Homebrew] for package management
 * [Homebrew Services] addon to manage services
 * [Git] for version control
+  * [Git Flow] to manage branch worflow
 * [Zsh] a beautiful terminal
 * [VirtualBox] to run VMs
 * [Docker] to run containers
@@ -28,6 +29,7 @@ It should take less than 15 minutes to install (depends on your machine).
 [Homebrew]: https://brew.sh/
 [Homebrew Services]: https://github.com/Homebrew/homebrew-services
 [Git]: https://git-scm.com/
+[Git Flow]: https://github.com/nvie/gitflow
 [Zsh]: https://ohmyz.sh/
 [VirtualBox]: https://www.virtualbox.org/wiki/Downloads
 [Docker]: http://docker.com/
