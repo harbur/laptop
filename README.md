@@ -21,7 +21,7 @@ What it sets up
 * [Kubetail] to tail Kubernetes logs
 * [Kops] to manage Kubernetes Production Clusters
 * [Helm] to manage Kubernetes Charts
-* [Z] to track into your most used directories (**Installation manual**)
+* [Z] to track into your most used directories
 * [HTTPie] a command line HTTP client with an intuitive UI
 
 It should take less than 15 minutes to install (depends on your machine).
@@ -69,6 +69,22 @@ curl --remote-name https://raw.githubusercontent.com/harbur/laptop/master/mac
 less mac
 sh mac 2>&1 | tee ~/laptop.log
 ```
+
+Manual Setup
+------------
+
+After installing the script here is a list of followup manual installations:
+
+### Git Commitizen
+
+Install [Git Commitizen]:
+
+```sh
+npm install commitizen -g
+echo '{ "path": "cz-conventional-changelog" }' > ~/.czrc
+```
+
+[Git Commitizen]: https://github.com/commitizen/cz-cli
 
 Debugging
 ---------
