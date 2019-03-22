@@ -108,6 +108,7 @@ tap "homebrew/services"
 # Git(Hub)
 brew "git"
 brew "git-extras"
+brew "git-flow"
 brew "hub"
 
 # CLI tools
