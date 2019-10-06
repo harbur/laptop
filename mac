@@ -127,6 +127,7 @@ cask "virtualbox"
 
 # Cloud Providers CLI
 brew "awscli"
+brew "eksctl"
 brew "s3cmd"
 cask "google-cloud-sdk"
 
