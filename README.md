@@ -14,6 +14,7 @@ What it sets up
 * [Docker] to run containers
 * [Minikube] to run Kubernetes
 * [AWS CLI] to manage AWS
+* [Eksctl] to manage AWS EKS Clusters
 * [Google Cloud SDK] to manage Google Cloud
 * [Kubernetic] to manage Kubernetes
 * [Kubectx] to switch faster between clusters and namespaces
@@ -35,6 +36,7 @@ It should take less than 15 minutes to install (depends on your machine).
 [Docker]: http://docker.com/
 [Minikube]: https://kubernetes.io/docs/setup/minikube/
 [AWS CLI]: https://aws.amazon.com/cli/
+[Eksctl]: https://github.com/weaveworks/eksctl
 [Google Cloud SDK]: https://cloud.google.com/sdk/install
 [Kubernetic]: https://www.kubernetic.com
 [Kubectx]: https://github.com/ahmetb/kubectx
