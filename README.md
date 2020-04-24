@@ -1,6 +1,6 @@
 # Laptop
 
-Laptop is a guideline to help you setup an OS X laptop for development.
+Laptop is a guideline to help you setup an OS X or Linux laptop for development.
 
 What it sets up
 ---------------
@@ -52,17 +52,15 @@ Requirements
 
 We support:
 
-* macOS Mavericks (10.9)
-* macOS Yosemite (10.10)
-* macOS El Capitan (10.11)
-* macOS Sierra (10.12)
-* macOS High Sierra (10.13)
-* macOS Mojave (10.14)
+* macOS Catalina (10.15)
+* Ubuntu (18.04)
 
 Older versions may work but aren't regularly tested. Bug reports for older versions are welcome.
 
 Install
 -------
+
+### OSX
 
 Download, review, then execute the script:
 
@@ -70,6 +68,16 @@ Download, review, then execute the script:
 curl --remote-name https://raw.githubusercontent.com/harbur/laptop/master/mac
 less mac
 sh mac 2>&1 | tee ~/laptop.log
+```
+
+### Linux
+
+Download, review, then execute the script:
+
+```sh
+curl --remote-name https://raw.githubusercontent.com/harbur/laptop/master/mac
+less linux
+sh linux 2>&1 | tee ~/laptop.log
 ```
 
 Manual Setup
