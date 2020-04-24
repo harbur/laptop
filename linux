@@ -2,6 +2,18 @@
 
 # Linux Setup
 
+# Editing....
+
 sudo apt-get install git-extras
 sudo apt-get install git-flow
 sudo apt-get install zsh
+sudo apt-get install git-extras
+sudo apt-get install git-flow
+sudo apt-get install zsh
+sudo apt-get install z		                //NO
+sudo apt-get install httpie -> recomendable libfreetype6
+sudo apt-get install helm		              //NO
+sudo apt-get install kubectx		          //NO
+sudo apt-get install kubectl
+sudo apt-get install kube-ps1		          //NO
+sudo apt-get install sterm		            //NO
