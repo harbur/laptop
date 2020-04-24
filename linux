@@ -1,0 +1,7 @@
+#!/bin/sh
+
+# Linux Setup
+
+sudo apt-get install git-extras
+sudo apt-get install git-flow
+sudo apt-get install zsh
